@@ -7,5 +7,7 @@ class EdwinCheck {
         System.out.println("git check......1 ");
         System.out.println("Existing file modification");
 
+        System.out.println("chandru conflict");
+
     }
 }
